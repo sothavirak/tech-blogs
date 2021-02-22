@@ -1,2 +1,2 @@
-# tech-blogs
-Technical Blogs
+# Technical Blogs
+Show me the codes!
